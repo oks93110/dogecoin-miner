@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Private Dogecoin Miner</title>
+</head>
+<body>
+    <h1>Dogecoin Miner</h1>
+    <p>Mining Dogecoin (DOGE) using your browser.</p>
+    <button id="startButton">Start Mining</button>
+
+    <!-- Example Miner Script -->
+    <script>
+
